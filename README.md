@@ -7,15 +7,14 @@ Some NLP Study Code Collections
     1. [Tokenizing](chap01_text_proprocessing/_01_tokenization.ipynb)
 <br><br>
 
-## 2. Reference
-[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/21690)
-<br><br>
-
-## 3. Contributer
+## 2. Contributors
 * [Hyunwoong Go](https://github.com/gusdnd852)
 * [Mingu Kang](https://github.com/minqukanq)
 <br><br>
 
+## 3. Reference
+[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/21690)
+<br><br>
 
 ## 4. License
 
