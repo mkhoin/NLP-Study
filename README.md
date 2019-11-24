@@ -5,14 +5,19 @@ Some NLP Study Code Collections
 ## 1. Index
 1. Chaper 01 - Text Preprocessing
     1. [Tokenizing](chap01_text_proprocessing/_01_tokenization.ipynb)
-   
 <br><br>
 
 ## 2. Reference
 [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/21690)
 <br><br>
 
-## 3. License
+## 3. Contributer
+* [Hyunwoong Go](https://github.com/gusdnd852)
+* [Mingu Kang](https://github.com/minqukanq)
+<br><br>
+
+
+## 4. License
 
     Copyright 2019 Deep-NLP.
 
