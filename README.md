@@ -5,6 +5,8 @@ Some NLP Study Code Collections
 ## 1. Index
 1. Chaper 01 - Text Preprocessing
     1. [Tokenizing](chap01_text_proprocessing/_01_tokenization.ipynb)
+    2. [Cleaning & Normalization](chap01_text_proprocessing/_02_cleaning_normalization.ipynb)
+    3. [Stemming & Lemmatization](chap01_text_proprocessing/_03_stemming_lemmatization.ipynb)
 <br><br>
 
 ## 2. Contributors
